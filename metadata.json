@@ -1,0 +1,5 @@
+{
+  "name": "Transcript to Email & CRM Notes Generator",
+  "description": "An intelligent assistant for mortgage brokers that transforms meeting transcripts into professional client emails and concise CRM notes using AI.",
+  "requestFramePermissions": []
+}
